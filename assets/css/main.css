@@ -1,0 +1,24 @@
+.box {
+    width: 100px;
+    height: 100px;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: left;
+}
+
+.box1 {
+    background-color: aqua;
+    margin: 5px;
+}
+
+.box2 {
+    background-color: black;
+    margin: 5px;
+}
+
+.box3 {
+    background-color: yellowgreen;
+    margin: 5px;
+}
